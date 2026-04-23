@@ -25,7 +25,7 @@ disk_size=$(df -h | grep "/dev/sda6" | awk '{print $5}' | cut -d '%' -f1)
 echo "$disk_size% of disk is filled"
 # Prints the current disk usage percentage to the terminal
 
-if [ "$disk_size" -gt 12 ];
+if [ "$disk_size" -gt 80 ];
 # Starts an if-statement: checks if 'disk_size' is numerically greater than 12
 # "$disk_size" is quoted to avoid errors if the variable is empty
 
