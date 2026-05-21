@@ -1,0 +1,480 @@
+Mon 18 May 2026 05:21:41 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   26M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:23:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:25:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:27:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:29:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:31:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:33:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:35:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:37:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  120K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:39:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  124K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:41:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:43:43 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  124K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:45:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  124K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:47:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:49:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:51:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:53:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:55:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:57:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 05:59:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  2.9M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:01:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:03:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:05:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:07:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:09:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   21M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:11:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:13:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:15:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:17:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:19:44 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   25M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:21:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   23M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:23:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   23M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:25:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   23M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:27:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   23M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  128K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:29:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   23M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:31:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   19M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:33:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   19M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:35:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   19M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:37:45 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   19M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
+Mon 18 May 2026 06:39:46 PM EAT
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           779M  3.1M  776M   1% /run
+/dev/sda6       572G   85G  458G  16% /
+tmpfs           3.8G   23M  3.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        246K  126K  116K  53% /sys/firmware/efi/efivars
+tmpfs           3.8G     0  3.8G   0% /run/qemu
+/dev/sda1        96M   32M   65M  33% /boot/efi
+tmpfs           779M   80K  779M   1% /run/user/997
+tmpfs           779M  132K  779M   1% /run/user/1000
+ 
